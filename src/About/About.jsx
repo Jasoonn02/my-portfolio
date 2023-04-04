@@ -6,7 +6,7 @@ export default function About() {
     <div className="container p-10">
       <div className="lg:flex justify-between">
         <div className="flex justify-center lg:mt-10">
-          <img className="rounded-full w-[200px] h-[250px] lg:w-[300px] h-[350px]" src={Jason} />
+          <img className="rounded-full w-[200px] h-[250px] lg:w-[300px] lg:h-[350px]" src={Jason} />
         </div>
         <div className="mt-10 lg:w-96">
           <h1 className="font-semibold">
