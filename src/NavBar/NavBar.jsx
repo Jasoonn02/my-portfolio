@@ -19,7 +19,7 @@ export default function NavBar({toggle}) {
         </li>
         <br />
       </div>
-      <div className="my-12 pr-8 cursor-pointer md:hidden"
+      <div className="my-4 pr-8 cursor-pointer md:hidden"
       onClick={toggle}>
         <svg className="w-8 h-8"
           fill="none"
