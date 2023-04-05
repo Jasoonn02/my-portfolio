@@ -3,8 +3,8 @@ import Jason from "../Imágenes/foto.jpg";
 
 export default function About() {
   return (
-    <div className="container p-10">
-      <div className="lg:flex justify-between">
+    <div className="p-10">
+      <div className="lg:flex justify-between xl:flex xl:justify-center xl:space-x-96">
         <div className="flex justify-center lg:mt-10">
           <img className="rounded-full w-[200px] h-[250px] lg:w-[300px] lg:h-[350px]" src={Jason} />
         </div>

@@ -5,17 +5,17 @@ export default function NavBar({toggle}) {
   return (
     <nav className="flex justify-end shadow-md md:justify-center">
       <div className="hidden md:flex right-0 list-none space-x-16 my-12">
-        <li className="hover:text-sky-600">
-          <Link to="/">Home</Link>
+        <li className="hover:text-sky-100">
+          <Link to="/" className="xl:text-[20px]">Home</Link>
         </li>
-        <li className="hover:text-sky-600">
-          <Link to="/about">Sobre Mí</Link>
+        <li className="hover:text-sky-100">
+          <Link to="/about" className="xl:text-[20px]">Sobre Mí</Link>
         </li>
-        <li className="hover:text-sky-600">
-          <Link to="/proyectos">Proyectos</Link>
+        <li className="hover:text-sky-100">
+          <Link to="/proyectos" className="xl:text-[20px]">Proyectos</Link>
         </li>
-        <li className="hover:text-sky-600">
-          <Link to="/contacto">Contacto</Link>
+        <li className="hover:text-sky-100">
+          <Link to="/contacto" className="xl:text-[20px]">Contacto</Link>
         </li>
         <br />
       </div>
