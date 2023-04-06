@@ -11,12 +11,12 @@ export default function Proyectos() {
           <img src={simple} alt="" />
           <h4 className="font-bold my-2">SIMPLE SERVICE</h4>
           <article className="flex justify-between">
-            <div className="grid grid-cols-5 items-center">
-            <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">JS</span>
+            <div className="grid grid-cols-2 items-center">
+            <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700 my-1">JS</span>
             <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">REACT.JS</span>
             <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">REDUX-TOOLKIT</span>
             <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">EXPRESS.JS</span>
-            <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">POSTGRESQL</span>
+            <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700 my-1">POSTGRESQL</span>
             <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">SEQUELIZE</span>
             <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">FIREBASE</span>
             </div>
@@ -36,12 +36,12 @@ export default function Proyectos() {
           <img src={videogame} alt="" />
           <h4 className="font-bold my-2">VIDEOGAMES</h4>
           <article className="flex justify-between">
-            <div className="grid grid-cols-5 items-center">
-            <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">JS</span>
+            <div className="grid grid-cols-2 items-center">
+            <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700 my-1">JS</span>
             <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">REACT.JS</span>
-            <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">REDUX</span>
+            <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700 my-1">REDUX</span>
             <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">EXPRESS.JS</span>
-            <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">POSTGRESQL</span>
+            <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700 my-1">POSTGRESQL</span>
             <span className="text-[12px] bg-slate-200 rounded-lg px-2 mr-2 text-slate-700">SEQUELIZE</span>
             </div>
             <div className="flex flex-nowrap text-xl">
